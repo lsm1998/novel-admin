@@ -73,6 +73,11 @@
             <artifactId>ruoyi-generator</artifactId>
         </dependency>
 
+        <!-- book服务-->
+        <dependency>
+            <groupId>com.ruoyi</groupId>
+            <artifactId>novel-book</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
